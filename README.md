@@ -1,3 +1,4 @@
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
@@ -215,7 +216,7 @@
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=fadelch&show_icons=false&include_all_commits=true&count_private=true&bg_color=191714&title_color=00b4d8&text_color=00e65f&border_color=191714"
+    src="https://github-stats-extended.vercel.app/api?username=fadelch&show_icons=false&include_all_commits=true&bg_color=191714&title_color=00b4d8&text_color=00e65f&border_color=191714"
     alt="Fadel's GitHub Stats"
   />
 </p>
@@ -224,7 +225,7 @@
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadelch&layout=compact&langs_count=10&bg_color=191714&title_color=00b4d8&text_color=00e65f&border_color=191714"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=fadelch&layout=compact&langs_count=10&bg_color=191714&title_color=00b4d8&text_color=00e65f&border_color=191714"
     alt="Fadel's Top Languages"
   />
 </p>
