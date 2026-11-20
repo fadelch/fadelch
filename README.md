@@ -3,7 +3,6 @@
 
 ###
 
-
 <p align="left">
   I'm Fadel, a Business Computing graduate and full-stack developer focused on building practical web and mobile applications.
 </p>
@@ -99,6 +98,38 @@
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="prisma logo" />
+
+</div>
+
+###
+
+<h2 align="left">GitHub Stats 📊</h2>
+
+###
+
+<div align="left">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=fadelch&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+
+</div>
+
+###
+
+<h2 align="left">Most Used Languages 💻</h2>
+
+###
+
+<div align="left">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadelch&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
+    height="180"
+    alt="Most Used Languages"
+  />
 
 </div>
 
