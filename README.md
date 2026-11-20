@@ -3,8 +3,9 @@
 
 ###
 
+
 <p align="left">
-  I'm Fadel, a final-year Business Computing student and full-stack developer focused on building practical web and mobile applications.
+  I'm Fadel, a Business Computing graduate and full-stack developer focused on building practical web and mobile applications.
 </p>
 
 ###
