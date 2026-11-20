@@ -1,11 +1,17 @@
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
+###
+
 <p align="left">
-  I'm Fadel, a Business Computing graduate and full-stack developer focused on building practical web and mobile applications.
+  I'm Fadel, a final-year Business Computing student and full-stack developer focused on building practical web and mobile applications.
 </p>
 
+###
+
 <h2 align="left">About me</h2>
+
+###
 
 <p align="left">
   ✨ Building full-stack applications and solving real-world business problems
@@ -14,8 +20,10 @@
   <br>
   🎯 Goal: Become a professional full-stack/software engineer and build production-ready systems
   <br>
-  💻 Interested in web development, backend systems, databases, and software architecture
+  💻 Interested in web development, mobile development, backend systems, databases, and software architecture
 </p>
+
+###
 
 <a href="https://git.io/typing-svg">
   <img
@@ -24,208 +32,73 @@
   />
 </a>
 
-<h2 align="left">Socials</h2>
-
-<div align="left">
-
-  <a href="https://github.com/fadelch" target="_blank">
-    <img
-      src="https://skillicons.dev/icons?i=github"
-      height="40"
-      alt="GitHub"
-    />
-  </a>
-
-  <img width="12" />
-
-  <a href="https://www.linkedin.com/in/fadel-chaaban-832195301/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      height="40"
-      alt="LinkedIn"
-    />
-  </a>
-
-</div>
+###
 
 <h2 align="left">I code with</h2>
 
+###
+
 <div align="left">
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-      height="40"
-      alt="JavaScript"
-    />
-  </a>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
 
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-      height="40"
-      alt="TypeScript"
-    />
-  </a>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
 
-  <a href="https://react.dev/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-      height="40"
-      alt="React"
-    />
-  </a>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
   <img width="12" />
 
-  <a href="https://nextjs.org/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-      height="40"
-      alt="Next.js"
-    />
-  </a>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
   <img width="12" />
 
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
-      height="40"
-      alt="Tailwind CSS"
-    />
-  </a>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
 
-  <a href="https://nodejs.org/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-      height="40"
-      alt="Node.js"
-    />
-  </a>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
 
-  <a href="https://www.php.net/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-      height="40"
-      alt="PHP"
-    />
-  </a>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
 
-  <a href="https://laravel.com/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"
-      height="40"
-      alt="Laravel"
-    />
-  </a>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
 
-  <a href="https://www.java.com/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-      height="40"
-      alt="Java"
-    />
-  </a>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
 
-  <a href="https://www.python.org/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-      height="40"
-      alt="Python"
-    />
-  </a>
-
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo" />
   <img width="12" />
 
-  <a href="https://www.prisma.io/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"
-      height="40"
-      alt="Prisma"
-    />
-  </a>
-
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo" />
   <img width="12" />
 
-  <a href="https://www.mysql.com/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-      height="40"
-      alt="MySQL"
-    />
-  </a>
-
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo" />
   <img width="12" />
 
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-      height="40"
-      alt="PostgreSQL"
-    />
-  </a>
-
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo" />
   <img width="12" />
 
-  <a href="https://www.postman.com/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
-      height="40"
-      alt="Postman"
-    />
-  </a>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
 
-  <a href="https://git-scm.com/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-      height="40"
-      alt="Git"
-    />
-  </a>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
   <img width="12" />
 
-  <a href="https://github.com/" target="_blank">
-    <img
-      src="https://skillicons.dev/icons?i=github"
-      height="40"
-      alt="GitHub"
-    />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="android studio logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="prisma logo" />
 
 </div>
 
-<h2 align="left">GitHub Stats</h2>
-
-<p align="left">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=fadelch&show_icons=false&include_all_commits=true&bg_color=191714&title_color=00b4d8&text_color=00e65f&border_color=191714"
-    alt="Fadel's GitHub Stats"
-  />
-</p>
-
-<h2 align="left">Top Languages</h2>
-
-<p align="left">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=fadelch&layout=compact&langs_count=10&bg_color=191714&title_color=00b4d8&text_color=00e65f&border_color=191714"
-    alt="Fadel's Top Languages"
-  />
-</p>
+###
